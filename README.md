@@ -14,7 +14,7 @@
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/56726393.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/82689272.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/24323494.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 跳转至 QQ 授权 | 参数回调结果页 |
 
-
+ 
 ## Advantage 框架的优势
 * 1.文件少，代码简洁
 * 2.目录结构清晰，整理排布有序
