@@ -11,7 +11,7 @@
 
 | 名称 |1.列表页 |2.展示页 |3.回调页 |
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/56726393.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/82689272.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/24323494.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/56726393.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/72168859.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/24323494.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 跳转至 QQ 授权 | 参数回调结果页 |
 
  
